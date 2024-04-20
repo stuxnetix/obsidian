@@ -37,7 +37,79 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Несортированное/Изучение.md",
+                "file": "DevOps/Приложения/GitLab/Установка GitLab.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "94c005e60827fca2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Несортированное/Ubuntu Server.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eec26f962510c247",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps/Приложения/Kubernetes/Kubectl.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dda7da71c6525f8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps/Приложения/Docker/Docker установка на Ubuntu.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5eb1abd3a1a52389",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps/Приложения/Docker/Команды Docker.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f57cfc2d1988c3bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps/Приложения/GitLab/Установка GitLab.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "13f471d3ed2cbd17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps/Приложения/GitLab/Установка GitLab в Docker.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,9 +174,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0bc3ed056e1f4482",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps/Приложения/GitLab/Что такое GitLab.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "75868cd2888315a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps/Приложения/GitLab/Установка GitLab.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -133,7 +229,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Postfix",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -170,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Несортированное/Raid-массивы.md",
+                "file": "DevOps/Приложения/GitLab/Установка GitLab в Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +283,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Несортированное/Raid-массивы.md",
+                "file": "DevOps/Приложения/GitLab/Установка GitLab в Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +306,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Несортированное/Raid-массивы.md"
+                "file": "DevOps/Приложения/GitLab/Установка GitLab в Docker.md"
               }
             }
           }
@@ -231,11 +327,21 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "be1aecab99d4f4df",
+  "active": "13f471d3ed2cbd17",
   "lastOpenFiles": [
-    "Новый текстовый документ.txt",
+    "DevOps/Приложения/GitLab/Установка GitLab.md",
+    "DevOps/Приложения/Docker/Команды Docker.md",
+    "DevOps/Приложения/GitLab/Установка GitLab в Docker.md",
+    "DevOps/Приложения/Docker/Docker установка на Ubuntu.md",
+    "DevOps/Приложения/Kubernetes/Microk8s.md",
+    "Несортированное/Удаление Docker с Ubuntu.md",
+    "DevOps/Приложения/Kubernetes/Kubectl.md",
+    "Несортированное/Ubuntu Server.md",
     "Несортированное/Изучение.md",
+    "DevOps/Приложения/GitLab/Что такое GitLab.md",
+    "Несортированное/Hetman Raid Recovery.md",
     "Несортированное/Raid-массивы.md",
+    "Новый текстовый документ.txt",
     "Несортированное/Degraded - статус.md",
     "DevOps/Приложения/Prometheus/Что такое Prometheus.md",
     "Pasted image 20240417211034.png",
@@ -256,29 +362,19 @@
     "DevOps/ArgoCD/ArgoCD.md",
     "DevOps/ArgoCD",
     "DevOps/Определения DevOps/DevOps.md",
-    "DevOps/Приложения/Mail Servers/Почтовые сервера.md",
-    "DevOps/Приложения/Apache/Что такое Apache.md",
-    "Несортированное/DevOps.md",
     "Images/Pasted image 20240416211813.png",
     "Images/Pasted image 20240416211741.png",
     "Images/Pasted image 20240416211150.png",
     "Images/Pasted image 20240416211132.png",
     "Images/Pasted image 20240416211105.png",
-    "DevOps/Сетевая коммуникация/SSH.md",
-    "DevOps/Приложения/Mail Servers/Postfix.md",
-    "DevOps/Приложения/Mail Servers/Без названия.md",
     "Несортированное",
-    "DevOps/Приложения/Nginx/Что такое Nginx.md",
     "Images",
-    "DevOps/Приложения/Grafana/Что такое Grafana.md",
-    "DevOps/Приложения/Proxmox/Что такое Proxmox.md",
     "DevOps/Сетевая коммуникация",
     "DevOps/Приложения",
     "DevOps/Определения DevOps",
     "DevOps/Приложения/Proxmox",
     "DevOps/Приложения/Text Redactors",
     "DevOps/Приложения/Mail Servers",
-    "DevOps/Приложения/Apache",
     "Без названия 4.canvas",
     "Без названия 3.canvas",
     "Без названия 2.canvas",
