@@ -43,3 +43,24 @@ sudo groupadd docker
 sudo usermod -aG docker $USER // имя админа
 newgrp docker
 
+
+Еще вариант установки :
+
+```
+cd /tmp
+```
+
+```
+curl -fsSL https://get.docker.com -o get-docker.sh
+```
+
+```
+sudo sh ./get-docker.sh
+```
+
+Запускаем Gitlab Runner : 
+
+```
+docker run -d --name gitlab-runner --restart always -v /srv/gitlab-runner/config:/etc/gitlab-runner -v /var/run/docker.sock:/var/run/docker.sock gitlab/gitlab-runner:alpine
+```
+
