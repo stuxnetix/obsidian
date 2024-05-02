@@ -90,9 +90,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c9fdd6163090ebcb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps/Операционные системы/Windows OS/Проверка домена Active Directory на ошибки.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -121,7 +133,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#ser",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -138,8 +150,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -159,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/Операционные системы/Windows OS/Windows Server 2003 сброс лицензии терминалов.md",
+                "file": "DevOps/Операционные системы/Windows OS/Проверка домена Active Directory на ошибки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps/Операционные системы/Windows OS/Windows Server 2003 сброс лицензии терминалов.md",
+                "file": "DevOps/Операционные системы/Windows OS/Проверка домена Active Directory на ошибки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps/Операционные системы/Windows OS/Windows Server 2003 сброс лицензии терминалов.md"
+                "file": "DevOps/Операционные системы/Windows OS/Проверка домена Active Directory на ошибки.md"
               }
             }
           }
@@ -220,11 +231,13 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "658c2c4814486885",
+  "active": "6ec73b27693e5066",
   "lastOpenFiles": [
+    "Несортированное/Изучение.md",
+    "DevOps/Операционные системы/Windows OS/Проверка домена Active Directory на ошибки.md",
+    "DevOps/Операционные системы/Windows OS/Windows Server 2003 сброс лицензии терминалов.md",
     "Несортированное/3 дня Linux.md",
     "Несортированное/Апрель.md",
-    "Несортированное/Изучение.md",
     "Несортированное/Контроллеры доменов.md",
     "Несортированное/Менеджер логических томов LVM.md",
     "Несортированное/Обновление pod.md",
@@ -239,7 +252,6 @@
     "Несортированное/Troubleshootings.md",
     "DevOps/Операционные системы/Linux OS/UFW файрвол Ubuntu.md",
     "DevOps/Почтовый сервер/Thunderbird backup.md",
-    "DevOps/Операционные системы/Windows OS/Windows Server 2003 сброс лицензии терминалов.md",
     "DevOps/Приложения/Proxmox/Что такое Proxmox.md",
     "Images/Pasted image 20240501150114.png",
     "DevOps/Сетевая коммуникация/Сети кратко.md",
@@ -254,7 +266,6 @@
     "DevOps/Приложения/GitLab/Установка GitLab в Docker.md",
     "Images/Pasted image 20240421135023.png",
     "DevOps/Операционные системы/Linux OS/Ubuntu Desktop.md",
-    "DevOps/Операционные системы/Linux OS/Ubuntu Server.md",
     "DevOps/Скрипты автоматизации",
     "DevOps/Операционные системы/Solaris OS",
     "DevOps/Полезные программы",
