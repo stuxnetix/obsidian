@@ -37,3 +37,5 @@ mdadm --add /dev/md2 /dev/sdb4
 Если диск новый , то делаем следующее :
 sfdisk -d /dev/sda | /dev/sdb 
 Это скопирует boot , swap и рабочие разделы с диска sda в sdb
+
+#raid #рейд #hdd #ssd #жесткие 

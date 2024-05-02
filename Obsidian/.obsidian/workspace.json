@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Несортированное/Raid-массивы.md",
+                "file": "DevOps/Hardwares/Raid-массивы.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,12 +23,76 @@
             "id": "6d4bc0998949058e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DevOps/Приложения/Proxmox/Что такое Proxmox.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "04bef57626e803aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps/Приложения/Proxmox/Установка Proxmox VE на сервер.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f3ccbd1090c7c10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps/Базы данных/Postgresql/PostgreSQL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "52c8236c5688dc3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps/Операционные системы/Windows OS/Windows Server 2003 сброс лицензии терминалов.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "36e64f0fd0e94df1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Несортированное/Резервное копирование через ntbackup.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "658c2c4814486885",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps/Операционные системы/Windows OS/Windows Server 2003 сброс лицензии терминалов.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -57,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "#ser",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +138,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,6 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DevOps/Операционные системы/Windows OS/Windows Server 2003 сброс лицензии терминалов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DevOps/Операционные системы/Windows OS/Windows Server 2003 сброс лицензии терминалов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +198,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DevOps/Операционные системы/Windows OS/Windows Server 2003 сброс лицензии терминалов.md"
+              }
             }
           }
         ],
@@ -151,53 +220,54 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "6d4bc0998949058e",
+  "active": "658c2c4814486885",
   "lastOpenFiles": [
+    "Несортированное/3 дня Linux.md",
+    "Несортированное/Апрель.md",
+    "Несортированное/Изучение.md",
+    "Несортированное/Контроллеры доменов.md",
+    "Несортированное/Менеджер логических томов LVM.md",
+    "Несортированное/Обновление pod.md",
+    "Несортированное/Резервное копирование через ntbackup.md",
+    "DevOps/Базы данных/Postgresql/PostgreSQL.md",
+    "DevOps/Hardwares",
+    "DevOps/Операционные системы",
+    "DevOps/Базы данных",
+    "DevOps/Приложения/Proxmox/Установка Proxmox VE на сервер.md",
+    "Несортированное/Degraded - статус.md",
+    "DevOps/Hardwares/Raid-массивы.md",
+    "Несортированное/Troubleshootings.md",
+    "DevOps/Операционные системы/Linux OS/UFW файрвол Ubuntu.md",
+    "DevOps/Почтовый сервер/Thunderbird backup.md",
+    "DevOps/Операционные системы/Windows OS/Windows Server 2003 сброс лицензии терминалов.md",
+    "DevOps/Приложения/Proxmox/Что такое Proxmox.md",
+    "Images/Pasted image 20240501150114.png",
+    "DevOps/Сетевая коммуникация/Сети кратко.md",
+    "Images/Pasted image 20240421190914.png",
+    "Images/Pasted image 20240421185812.png",
     "DevOps/Приложения/Docker/Docker установка на Ubuntu.md",
-    "Несортированное/Raid-массивы.md",
-    "Несортированное/IPMI Intelligent Platform Management Interface.md",
-    "Pasted image 20240421190914.png",
-    "Pasted image 20240421185812.png",
+    "DevOps/Hardwares/IPMI Intelligent Platform Management Interface.md",
     "DevOps/Приложения/GitLab/Работа с GitLab.md",
     "DevOps/Приложения/GitLab/Установка GitLab.md",
     "DevOps/Приложения/GitLab/X509 Сертификат для Gitlab.md",
-    "Несортированное/Troubleshootings.md",
     "DevOps/Приложения/GitLab/Что такое GitLab.md",
     "DevOps/Приложения/GitLab/Установка GitLab в Docker.md",
     "Images/Pasted image 20240421135023.png",
-    "Несортированное/UFW файрвол Ubuntu.md",
-    "DevOps/Linux OS/Ubuntu Desktop.md",
-    "DevOps/Linux OS/Ubuntu Server.md",
-    "DevOps/Приложения/Docker/DockerHub.md",
-    "Несортированное/Менеджер логических томов LVM.md",
+    "DevOps/Операционные системы/Linux OS/Ubuntu Desktop.md",
+    "DevOps/Операционные системы/Linux OS/Ubuntu Server.md",
     "DevOps/Скрипты автоматизации",
-    "Solaris OS/ZFS File System.md",
-    "Несортированное/Degraded - статус.md",
-    "Solaris OS",
-    "Несортированное/Изучение.md",
-    "Полезные программы",
-    "Solaris OS/Solaris OC.md",
-    "DevOps/Приложения/Docker/Команды Docker.md",
-    "DevOps/Приложения/Kubernetes/Microk8s.md",
-    "DevOps/Приложения/Docker/Удаление Docker с Ubuntu.md",
-    "DevOps/Приложения/Kubernetes/Kubectl.md",
-    "Полезные программы/Hetman Raid Recovery.md",
+    "DevOps/Операционные системы/Solaris OS",
+    "DevOps/Полезные программы",
     "Новый текстовый документ.txt",
-    "DevOps/Приложения/Prometheus/Что такое Prometheus.md",
     "Pasted image 20240417211034.png",
-    "DevOps/Приложения/Prometheus/Установка Prometheus на Linux.md",
     "Images/Pasted image 20240417205301.png",
     "Images/Pasted image 20240417203201.png",
     "Pasted image 20240417202934.png",
     "Pasted image 20240417202810.png",
     "DevOps/ArgoCD",
     "Images/Pasted image 20240416211813.png",
-    "Images/Pasted image 20240416211741.png",
     "Несортированное",
     "Images",
-    "DevOps/Сетевая коммуникация",
-    "DevOps/Приложения",
-    "DevOps/Определения DevOps",
     "Без названия 4.canvas",
     "Без названия 3.canvas",
     "Без названия 2.canvas",
