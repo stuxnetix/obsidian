@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Несортированное/Резервное копирование через ntbackup.md",
+                "file": "DevOps/Операционные системы/Windows OS/Резервное копирование через ntbackup.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,9 +102,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6c6f0919697af1a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps/Hardwares/IPMI Intelligent Platform Management Interface.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -170,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/Операционные системы/Windows OS/Проверка домена Active Directory на ошибки.md",
+                "file": "DevOps/Hardwares/IPMI Intelligent Platform Management Interface.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps/Операционные системы/Windows OS/Проверка домена Active Directory на ошибки.md",
+                "file": "DevOps/Hardwares/IPMI Intelligent Platform Management Interface.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps/Операционные системы/Windows OS/Проверка домена Active Directory на ошибки.md"
+                "file": "DevOps/Hardwares/IPMI Intelligent Platform Management Interface.md"
               }
             }
           }
@@ -231,41 +243,43 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "6ec73b27693e5066",
+  "active": "6c6f0919697af1a8",
   "lastOpenFiles": [
+    "DevOps/ArgoCD/ArgoCD.md",
+    "DevOps/Сетевая коммуникация/SSH.md",
+    "DevOps/Сетевая коммуникация/MTU.md",
+    "DevOps/Сетевая коммуникация/Настройка L2TP сервера в Microtik.md",
+    "DevOps/Почтовый сервер/Thunderbird backup.md",
+    "Несортированное/Zentyal Office.md",
+    "DevOps/Операционные системы/Linux OS/Degraded - статус.md",
+    "DevOps/Операционные системы/Linux OS/BIND9.md",
+    "Несортированное/Обновление pod.md",
+    "DevOps/Операционные системы/Linux OS/Менеджер логических томов LVM.md",
+    "Несортированное/Контроллеры доменов.md",
     "Несортированное/Изучение.md",
+    "DevOps/Операционные системы/Linux OS/Апрель.md",
+    "DevOps/Операционные системы/Linux OS/Запасной контроллер домена на основе Samba4.md",
+    "DevOps/Операционные системы/Linux OS/Linux полезные команды.md",
+    "DevOps/Приложения/Apache/Что такое Apache.md",
     "DevOps/Операционные системы/Windows OS/Проверка домена Active Directory на ошибки.md",
     "DevOps/Операционные системы/Windows OS/Windows Server 2003 сброс лицензии терминалов.md",
-    "Несортированное/3 дня Linux.md",
-    "Несортированное/Апрель.md",
-    "Несортированное/Контроллеры доменов.md",
-    "Несортированное/Менеджер логических томов LVM.md",
-    "Несортированное/Обновление pod.md",
-    "Несортированное/Резервное копирование через ntbackup.md",
+    "DevOps/Операционные системы/Windows OS/Резервное копирование через ntbackup.md",
+    "Несортированное/Pasted image 20240503104940.png",
+    "DevOps/Приложения/Nginx/Что такое Nginx.md",
+    "DevOps/Приложения/Apache 1",
+    "Несортированное/Без названия.md",
+    "DevOps/Hardwares/Raid-массивы.md",
+    "DevOps/Операционные системы/Linux OS/3 дня Linux.md",
     "DevOps/Базы данных/Postgresql/PostgreSQL.md",
     "DevOps/Hardwares",
     "DevOps/Операционные системы",
     "DevOps/Базы данных",
     "DevOps/Приложения/Proxmox/Установка Proxmox VE на сервер.md",
-    "Несортированное/Degraded - статус.md",
-    "DevOps/Hardwares/Raid-массивы.md",
     "Несортированное/Troubleshootings.md",
-    "DevOps/Операционные системы/Linux OS/UFW файрвол Ubuntu.md",
-    "DevOps/Почтовый сервер/Thunderbird backup.md",
-    "DevOps/Приложения/Proxmox/Что такое Proxmox.md",
     "Images/Pasted image 20240501150114.png",
-    "DevOps/Сетевая коммуникация/Сети кратко.md",
     "Images/Pasted image 20240421190914.png",
     "Images/Pasted image 20240421185812.png",
-    "DevOps/Приложения/Docker/Docker установка на Ubuntu.md",
-    "DevOps/Hardwares/IPMI Intelligent Platform Management Interface.md",
-    "DevOps/Приложения/GitLab/Работа с GitLab.md",
-    "DevOps/Приложения/GitLab/Установка GitLab.md",
-    "DevOps/Приложения/GitLab/X509 Сертификат для Gitlab.md",
-    "DevOps/Приложения/GitLab/Что такое GitLab.md",
-    "DevOps/Приложения/GitLab/Установка GitLab в Docker.md",
     "Images/Pasted image 20240421135023.png",
-    "DevOps/Операционные системы/Linux OS/Ubuntu Desktop.md",
     "DevOps/Скрипты автоматизации",
     "DevOps/Операционные системы/Solaris OS",
     "DevOps/Полезные программы",
@@ -276,9 +290,7 @@
     "Pasted image 20240417202934.png",
     "Pasted image 20240417202810.png",
     "DevOps/ArgoCD",
-    "Images/Pasted image 20240416211813.png",
     "Несортированное",
-    "Images",
     "Без названия 4.canvas",
     "Без названия 3.canvas",
     "Без названия 2.canvas",
