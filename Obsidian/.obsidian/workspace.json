@@ -114,9 +114,93 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a7cc2889efda38fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps/Приложения/Proxmox/Proxmox контейнеры.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "28c89b052ca3f7fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps/Приложения/Proxmox/Как безопасно обновится с версии 7 до 8.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3a882d0790955975",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps/Приложения/Kubernetes/Kubectl.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "91a107af4e14a402",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps/Операционные системы/Linux OS/Linux Диагностика.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "24fc024a8d737ab0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps/Приложения/Proxmox/Proxmox контейнеры.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "85f86ce1f69931a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps/Приложения/Kubernetes/Установка HELM на локальную машину.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a4dadaba8c21e4c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Несортированное/Команды kubectl.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -182,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/Hardwares/IPMI Intelligent Platform Management Interface.md",
+                "file": "Несортированное/Команды kubectl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +283,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps/Hardwares/IPMI Intelligent Platform Management Interface.md",
+                "file": "Несортированное/Команды kubectl.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +306,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps/Hardwares/IPMI Intelligent Platform Management Interface.md"
+                "file": "Несортированное/Команды kubectl.md"
               }
             }
           }
@@ -243,39 +327,39 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "6c6f0919697af1a8",
+  "active": "a4dadaba8c21e4c5",
   "lastOpenFiles": [
-    "DevOps/ArgoCD/ArgoCD.md",
+    "Несортированное/Контроллеры доменов.md",
+    "Несортированное/Изучение.md",
+    "Несортированное/Обновление pod.md",
+    "Несортированное/Linux Command 1.md",
+    "Несортированное/Zentyal Office.md",
+    "Несортированное/Команды kubectl.md",
+    "DevOps/Приложения/Proxmox/Как безопасно обновится с версии 7 до 8.md",
+    "DevOps/Операционные системы/Linux OS/Linux Диагностика.md",
+    "Несортированное/Troubleshootings.md",
+    "DevOps/Приложения/Kubernetes/Установка HELM на локальную машину.md",
+    "DevOps/Приложения/Kubernetes/Prometheus установка через HELM.md",
+    "DevOps/Приложения/Proxmox/Proxmox контейнеры.md",
+    "DevOps/Приложения/Kubernetes/Сборка билда и развертывания.md",
+    "DevOps/Операционные системы/Windows OS/Powershell.md",
+    "DevOps/Операционные системы/Linux OS/Чистка мусора в Linux.md",
+    "DevOps/Операционные системы/Linux OS/Увеличиваем LVM объём.md",
+    "DevOps/Операционные системы/Linux OS/Копирование установленных дистрибутивов.md",
     "DevOps/Сетевая коммуникация/SSH.md",
+    "DevOps/Операционные системы/Linux OS/Найти принтеры Linux.md",
+    "DevOps/Приложения/Kubernetes/Kubectl.md",
+    "DevOps/Hardwares/IPMI Intelligent Platform Management Interface.md",
+    "DevOps/ArgoCD/ArgoCD.md",
     "DevOps/Сетевая коммуникация/MTU.md",
     "DevOps/Сетевая коммуникация/Настройка L2TP сервера в Microtik.md",
     "DevOps/Почтовый сервер/Thunderbird backup.md",
-    "Несортированное/Zentyal Office.md",
     "DevOps/Операционные системы/Linux OS/Degraded - статус.md",
-    "DevOps/Операционные системы/Linux OS/BIND9.md",
-    "Несортированное/Обновление pod.md",
-    "DevOps/Операционные системы/Linux OS/Менеджер логических томов LVM.md",
-    "Несортированное/Контроллеры доменов.md",
-    "Несортированное/Изучение.md",
-    "DevOps/Операционные системы/Linux OS/Апрель.md",
-    "DevOps/Операционные системы/Linux OS/Запасной контроллер домена на основе Samba4.md",
-    "DevOps/Операционные системы/Linux OS/Linux полезные команды.md",
-    "DevOps/Приложения/Apache/Что такое Apache.md",
-    "DevOps/Операционные системы/Windows OS/Проверка домена Active Directory на ошибки.md",
-    "DevOps/Операционные системы/Windows OS/Windows Server 2003 сброс лицензии терминалов.md",
-    "DevOps/Операционные системы/Windows OS/Резервное копирование через ntbackup.md",
     "Несортированное/Pasted image 20240503104940.png",
-    "DevOps/Приложения/Nginx/Что такое Nginx.md",
     "DevOps/Приложения/Apache 1",
-    "Несортированное/Без названия.md",
-    "DevOps/Hardwares/Raid-массивы.md",
-    "DevOps/Операционные системы/Linux OS/3 дня Linux.md",
-    "DevOps/Базы данных/Postgresql/PostgreSQL.md",
     "DevOps/Hardwares",
     "DevOps/Операционные системы",
     "DevOps/Базы данных",
-    "DevOps/Приложения/Proxmox/Установка Proxmox VE на сервер.md",
-    "Несортированное/Troubleshootings.md",
     "Images/Pasted image 20240501150114.png",
     "Images/Pasted image 20240421190914.png",
     "Images/Pasted image 20240421185812.png",
