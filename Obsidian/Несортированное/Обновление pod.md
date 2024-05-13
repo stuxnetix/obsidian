@@ -82,15 +82,9 @@ kubectl get deployments
 ```
 
 
-
-
 ~~~bash
 kubectl set image deployment/my-deployment container1=new-image1:version container2=new-image2:version
 ~~~
-
-
-
-
 
 
 ~~~bash
@@ -248,20 +242,10 @@ Error parsing reference: "registry.afo.spb.ru/data-mining/integration:sheppard92
 sheppard@NORMANDY:~/integration$ docker tag sheppard92/integration:new registry.afo.spb.ru/data-mining/integration:sheppard92-integration-new
 sheppard@NORMANDY:~/integration$ docker push registry.afo.spb.ru/data-mining/integration:sheppard92-integration-new
 The push refers to repository [registry.afo.spb.ru/data-mining/integration]
-2c836b38f209: Pushed 
-19f1441b1598: Pushed 
-b9c5f89efe24: Pushed 
-48611df389be: Pushed 
-34f7184834b2: Layer already exists 
-5836ece05bfd: Layer already exists 
-72e830a4dff5: Layer already exists 
-sheppard92-integration-new: digest: sha256:2e0872807fbac68812c51fc0dd635ba92d89f18a04b1415075c6db4c7d59e360 size: 1787
+
+
 sheppard@NORMANDY:~/integration$ kubectl set image deployment/integration integration=registry.afo.spb.ru/data-mining/integration:sheppard92-integration-new
 deployment.apps/integration image updated
-sheppard@NORMANDY:~/integr
-sheppard@NORMANDY:~/integr
-sheppard@NORMANDY:~/integr
-sheppard@NORMANDY:~/integration$ 
 
 
 
@@ -271,8 +255,6 @@ sheppard@NORMANDY:~/integration$
 
 
 ```bash
-
-Удаление по статусу
 kubectl get pods -A --no-headers | grep 'ContainerStatusUnknown' | awk '{print $2 " -n " $1}' | while read -r pod; do kubectl delete pod $pod --grace-period=0 --force; done
 ```
 
