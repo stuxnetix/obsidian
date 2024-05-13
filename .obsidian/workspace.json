@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Копирование установленных дистрибутивов.md",
+                "file": "Найти принтеры Linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Копирование установленных дистрибутивов.md",
+                "file": "Найти принтеры Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Копирование установленных дистрибутивов.md",
+                "file": "Найти принтеры Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Копирование установленных дистрибутивов.md"
+                "file": "Найти принтеры Linux.md"
               }
             }
           }
@@ -161,8 +161,9 @@
   },
   "active": "979975f87193a9fc",
   "lastOpenFiles": [
-    "Увеличиваем LVM объём.md",
     "Копирование установленных дистрибутивов.md",
+    "Найти принтеры Linux.md",
+    "Увеличиваем LVM объём.md",
     "Чистка мусора в Linux.md",
     "Obsidian/Несортированное/Troubleshootings.md",
     "Obsidian/DevOps/Приложения/Kubernetes/Kubectl.md",
