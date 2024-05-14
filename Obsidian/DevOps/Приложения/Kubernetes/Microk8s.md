@@ -69,3 +69,6 @@ microk8s stop
 
 Запустить параметром start 
 
+----
+
+#k8s #mikro8s #linux #DevOps 

@@ -2,7 +2,6 @@
 
 Вручную :
 
-
 Загрузить последнюю версию :
 ```
 curl -LO https://dl.k8s.io/release/`curl -LS https://dl.k8s.io/release/stable.txt`/bin/linux/amd64/kubectl
@@ -20,6 +19,7 @@ sudo mv ./kubectl /usr/local/bin/kubectl
 kubectl version --client
 ```
 
+----
 Метод с помощью пакетов:
 
 ```bash
@@ -30,6 +30,7 @@ sudo apt-get update
 sudo apt-get install -y kubectl
 ```
 
+----
 С помощью Snap : 
 
 ```shell
@@ -37,3 +38,7 @@ snap install kubectl --classic
 
 kubectl version
 ```
+
+
+----
+#k8s #kubectl #mikro8s #linux #DevOps 
