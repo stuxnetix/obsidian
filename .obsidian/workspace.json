@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "696528117150f4dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "825d98d2b4328aca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5e4a7baf45981e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/Несортированное/Обновление pod.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9c6dae29b3b35348",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/DevOps/Приложения/Docker/Docker установка на Ubuntu.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "358f01f64b5eac5a",
+    "type": "split",
+    "children": [
+      {
+        "id": "21eefdb09b5a8746",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e605471a41281c16",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9688b4a6d3ebb8bc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2701aad9ffbfe27e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "41a9c43f1e0e5fc4",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d11a5adbe5b6c05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7bcbcd02fa1b254d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Obsidian/DevOps/Приложения/Docker/Docker установка на Ubuntu.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ed1356b052aee1ad",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Obsidian/DevOps/Приложения/Docker/Docker установка на Ubuntu.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6f2ae8401bef0e9f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "25b3b4dcc035dca3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Obsidian/DevOps/Приложения/Docker/Docker установка на Ubuntu.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "9c6dae29b3b35348",
+  "lastOpenFiles": [
+    "Obsidian/DevOps/Приложения/Docker/Что такое Docker.md",
+    "Obsidian/DevOps/Приложения/Docker/Удаление Docker с Ubuntu.md",
+    "Obsidian/DevOps/Приложения/Docker/Создать свой образ Image.md",
+    "Obsidian/DevOps/Приложения/Docker/Команды Docker.md",
+    "Obsidian/DevOps/Приложения/Nginx/Что такое Nginx.md",
+    "Obsidian/DevOps/Приложения/Docker/Docker установка на Ubuntu.md",
+    "Команды Nginx.md",
+    "Obsidian/Несортированное/Обновление pod.md",
+    "Без названия",
+    "Obsidian/DevOps/Операционные системы/Linux OS/Linux Диагностика.md",
+    "Obsidian/DevOps/Операционные системы/Linux OS/Копирование установленных дистрибутивов.md",
+    "Obsidian/DevOps/Операционные системы/Linux OS/Ubuntu Desktop.md",
+    "Obsidian/DevOps/Операционные системы/Linux OS/Ubuntu Server.md",
+    "Obsidian/DevOps/Операционные системы/Linux OS/Degraded - статус.md",
+    "Obsidian/DevOps/Операционные системы/Linux OS/BIND9.md",
+    "Obsidian/DevOps/Операционные системы/Linux OS/Чистка мусора в Linux.md",
+    "Obsidian/DevOps/Операционные системы/Linux OS/Увеличиваем LVM объём.md",
+    "Obsidian/DevOps/Операционные системы/Linux OS/Найти принтеры Linux.md",
+    "Obsidian/DevOps/Операционные системы/Linux OS/Менеджер логических томов LVM.md",
+    "Obsidian/DevOps/Операционные системы/Linux OS/Апрель.md",
+    "Obsidian/DevOps/Приложения/Kubernetes/Сборка билда и развертывания.md",
+    "Obsidian/DevOps/Приложения/Kubernetes/Работа с K8S.md",
+    "Obsidian/DevOps/Приложения/Kubernetes/Microk8s.md",
+    "Obsidian/DevOps/Приложения/Kubernetes/Что такое Kubernetes.md",
+    "Obsidian/DevOps/Приложения/Kubernetes/Установка Kubectl.md",
+    "Obsidian/DevOps/Операционные системы/Linux OS/Запасной контроллер домена на основе Samba4.md",
+    "Obsidian/DevOps/Операционные системы/Linux OS/Linux полезные команды.md"
+  ]
+}
