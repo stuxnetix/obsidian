@@ -193,14 +193,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Несортированное/Команды kubectl.md",
+                "file": "Несортированное/Linux Command 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "53cae329d4cc08aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps/Операционные системы/Linux OS/Linux Диагностика.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -266,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Несортированное/Команды kubectl.md",
+                "file": "DevOps/Операционные системы/Linux OS/Linux Диагностика.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +295,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Несортированное/Команды kubectl.md",
+                "file": "DevOps/Операционные системы/Linux OS/Linux Диагностика.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -306,7 +318,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Несортированное/Команды kubectl.md"
+                "file": "DevOps/Операционные системы/Linux OS/Linux Диагностика.md"
               }
             }
           }
@@ -327,34 +339,34 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "a4dadaba8c21e4c5",
+  "active": "53cae329d4cc08aa",
   "lastOpenFiles": [
-    "Несортированное/Контроллеры доменов.md",
-    "Несортированное/Изучение.md",
-    "Несортированное/Обновление pod.md",
+    "Несортированное/Отсутствие интернета Ubuntu 22.04.md",
     "Несортированное/Linux Command 1.md",
-    "Несортированное/Zentyal Office.md",
+    "DevOps/Операционные системы/Linux OS/Увеличиваем LVM объём.md",
+    "DevOps/Операционные системы/Linux OS/Чистка мусора в Linux.md",
+    "DevOps/Приложения/Kubernetes/Сборка билда и развертывания.md",
     "Несортированное/Команды kubectl.md",
-    "DevOps/Приложения/Proxmox/Как безопасно обновится с версии 7 до 8.md",
-    "DevOps/Операционные системы/Linux OS/Linux Диагностика.md",
+    "Несортированное/Изучение.md",
+    "Несортированное/Zentyal Office.md",
     "Несортированное/Troubleshootings.md",
+    "Несортированное/Обновление pod.md",
+    "DevOps/Приложения/Docker/Удаление Docker с Ubuntu.md",
+    "DevOps/Приложения/Docker/Создать свой образ Image.md",
+    "DevOps/Приложения/Docker/Команды Docker.md",
+    "DevOps/Приложения/Docker/DockerHub.md",
+    "DevOps/Приложения/Docker/Docker установка на Ubuntu.md",
+    "DevOps/Операционные системы/Linux OS/Linux Диагностика.md",
+    "Несортированное/Контроллеры доменов.md",
+    "DevOps/Приложения/Proxmox/Как безопасно обновится с версии 7 до 8.md",
     "DevOps/Приложения/Kubernetes/Установка HELM на локальную машину.md",
     "DevOps/Приложения/Kubernetes/Prometheus установка через HELM.md",
     "DevOps/Приложения/Proxmox/Proxmox контейнеры.md",
-    "DevOps/Приложения/Kubernetes/Сборка билда и развертывания.md",
     "DevOps/Операционные системы/Windows OS/Powershell.md",
-    "DevOps/Операционные системы/Linux OS/Чистка мусора в Linux.md",
-    "DevOps/Операционные системы/Linux OS/Увеличиваем LVM объём.md",
     "DevOps/Операционные системы/Linux OS/Копирование установленных дистрибутивов.md",
     "DevOps/Сетевая коммуникация/SSH.md",
     "DevOps/Операционные системы/Linux OS/Найти принтеры Linux.md",
     "DevOps/Приложения/Kubernetes/Kubectl.md",
-    "DevOps/Hardwares/IPMI Intelligent Platform Management Interface.md",
-    "DevOps/ArgoCD/ArgoCD.md",
-    "DevOps/Сетевая коммуникация/MTU.md",
-    "DevOps/Сетевая коммуникация/Настройка L2TP сервера в Microtik.md",
-    "DevOps/Почтовый сервер/Thunderbird backup.md",
-    "DevOps/Операционные системы/Linux OS/Degraded - статус.md",
     "Несортированное/Pasted image 20240503104940.png",
     "DevOps/Приложения/Apache 1",
     "DevOps/Hardwares",
