@@ -25,14 +25,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/DevOps/Приложения/Docker/Docker установка на Ubuntu.md",
+                "file": "Obsidian/DevOps/Приложения/Docker/Команды Docker.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec1aff08556c79b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Установка Helm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "91b2d44881f811b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Работа с Helm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c6d50ea720b04b8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/DevOps/Приложения/Kubernetes/Сборка билда и развертывания.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -98,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/DevOps/Приложения/Docker/Docker установка на Ubuntu.md",
+                "file": "Obsidian/DevOps/Приложения/Kubernetes/Сборка билда и развертывания.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/DevOps/Приложения/Docker/Docker установка на Ubuntu.md",
+                "file": "Obsidian/DevOps/Приложения/Kubernetes/Сборка билда и развертывания.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/DevOps/Приложения/Docker/Docker установка на Ubuntu.md"
+                "file": "Obsidian/DevOps/Приложения/Kubernetes/Сборка билда и развертывания.md"
               }
             }
           }
@@ -159,18 +195,23 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "9c6dae29b3b35348",
+  "active": "c6d50ea720b04b8b",
   "lastOpenFiles": [
+    "Obsidian/DevOps/Приложения/Nginx/Что такое Nginx.md",
+    "Obsidian/DevOps/Приложения/GitLab/Работа с GitLab.md",
+    "Obsidian/Несортированное/Обновление pod.md",
+    "Obsidian/Несортированное/Отсутствие интернета Ubuntu 22.04.md",
+    "Obsidian/DevOps/Операционные системы/Linux OS/Linux Диагностика.md",
+    "Share на Linux.md",
+    "Работа с Helm.md",
+    "Установка Helm.md",
+    "Obsidian/DevOps/Приложения/Docker/Команды Docker.md",
+    "Obsidian/DevOps/Приложения/Docker/Docker установка на Ubuntu.md",
     "Obsidian/DevOps/Приложения/Docker/Что такое Docker.md",
     "Obsidian/DevOps/Приложения/Docker/Удаление Docker с Ubuntu.md",
     "Obsidian/DevOps/Приложения/Docker/Создать свой образ Image.md",
-    "Obsidian/DevOps/Приложения/Docker/Команды Docker.md",
-    "Obsidian/DevOps/Приложения/Nginx/Что такое Nginx.md",
-    "Obsidian/DevOps/Приложения/Docker/Docker установка на Ubuntu.md",
     "Команды Nginx.md",
-    "Obsidian/Несортированное/Обновление pod.md",
     "Без названия",
-    "Obsidian/DevOps/Операционные системы/Linux OS/Linux Диагностика.md",
     "Obsidian/DevOps/Операционные системы/Linux OS/Копирование установленных дистрибутивов.md",
     "Obsidian/DevOps/Операционные системы/Linux OS/Ubuntu Desktop.md",
     "Obsidian/DevOps/Операционные системы/Linux OS/Ubuntu Server.md",
@@ -182,11 +223,6 @@
     "Obsidian/DevOps/Операционные системы/Linux OS/Менеджер логических томов LVM.md",
     "Obsidian/DevOps/Операционные системы/Linux OS/Апрель.md",
     "Obsidian/DevOps/Приложения/Kubernetes/Сборка билда и развертывания.md",
-    "Obsidian/DevOps/Приложения/Kubernetes/Работа с K8S.md",
-    "Obsidian/DevOps/Приложения/Kubernetes/Microk8s.md",
-    "Obsidian/DevOps/Приложения/Kubernetes/Что такое Kubernetes.md",
-    "Obsidian/DevOps/Приложения/Kubernetes/Установка Kubectl.md",
-    "Obsidian/DevOps/Операционные системы/Linux OS/Запасной контроллер домена на основе Samba4.md",
-    "Obsidian/DevOps/Операционные системы/Linux OS/Linux полезные команды.md"
+    "Obsidian/DevOps/Приложения/Kubernetes/Работа с K8S.md"
   ]
 }
