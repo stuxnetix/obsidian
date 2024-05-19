@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Несортированное/Полезные сетевые команды Linux.md",
+                "file": "DevOps/Приложения/Kubernetes/Сборка билда и развертывания.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Несортированное/Полезные сетевые команды Linux.md",
+                "file": "DevOps/Приложения/Kubernetes/Сборка билда и развертывания.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Несортированное/Полезные сетевые команды Linux.md",
+                "file": "DevOps/Приложения/Kubernetes/Сборка билда и развертывания.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Несортированное/Полезные сетевые команды Linux.md"
+                "file": "DevOps/Приложения/Kubernetes/Сборка билда и развертывания.md"
               }
             }
           }
@@ -161,23 +161,23 @@
   },
   "active": "05fd70c13fae005d",
   "lastOpenFiles": [
-    "Несортированное/Отсутствие интернета Ubuntu 22.04.md",
-    "Несортированное/Полезные сетевые команды Linux.md",
+    "Несортированное/Troubleshootings.md",
+    "DevOps/Приложения/Kubernetes/Работа с K8S.md",
     "DevOps/Приложения/Kubernetes/Сборка билда и развертывания.md",
+    "Несортированное/Обновление pod.md",
+    "Несортированное/Полезные сетевые команды Linux.md",
+    "Несортированное/Отсутствие интернета Ubuntu 22.04.md",
     "DevOps/Приложения/Docker/Удаление Docker с Ubuntu.md",
     "DevOps/Приложения/Docker/Создать свой образ Image.md",
-    "Несортированное/Обновление pod.md",
     "DevOps/Операционные системы/Linux OS/Linux полезные команды.md",
     "DevOps/Операционные системы/Linux OS/Запасной контроллер домена на основе Samba4.md",
     "DevOps/Операционные системы/Linux OS/Linux Диагностика.md",
-    "DevOps/Приложения/Kubernetes/Работа с K8S.md",
     "Несортированное/Linux Command 1.md",
     "DevOps/Операционные системы/Linux OS/Увеличиваем LVM объём.md",
     "DevOps/Операционные системы/Linux OS/Чистка мусора в Linux.md",
     "Несортированное/Команды kubectl.md",
     "Несортированное/Изучение.md",
     "Несортированное/Zentyal Office.md",
-    "Несортированное/Troubleshootings.md",
     "DevOps/Приложения/Docker/Команды Docker.md",
     "DevOps/Приложения/Docker/DockerHub.md",
     "DevOps/Приложения/Docker/Docker установка на Ubuntu.md",
