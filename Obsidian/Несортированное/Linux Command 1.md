@@ -25,3 +25,16 @@ echo "export VAR="value"" >> /etc/environment && source /etc/environment
 unset TEST_V
 ```
 
+Просмотр данных на порт Postgresql : 
+
+```
+sudo ss -plnt | grep 5432
+```
+
+
+Сохранить вывод с файла в другой файл : 
+
+```
+sudo cat pg_hba.conf | tee -a /home/sysadm/file.txt
+```
+

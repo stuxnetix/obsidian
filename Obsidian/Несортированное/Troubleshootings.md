@@ -29,6 +29,12 @@ for p in $(kubectl get pods --all-namespaces | grep ContainerStatusUnknown | awk
 for p in $(kubectl get pods --all-namespaces | grep CrashLoopBackOff | awk '{print $2}'); do kubectl delete pod $p --grace-period=0 --force;done
 ```
 
+Удалить поды со статусом Terminating : 
+
+```
+for p in $(kubectl get pods --all-namespaces | grep Terminating | awk '{print $2}'); do kubectl delete pod $p --grace-period=0 --force;done
+```
+
 Время от времени нужно делать ребилд кластера и обновлять по новой! 
 
 
