@@ -11,12 +11,8 @@
             "id": "53cae329d4cc08aa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Несортированное/Отсутствие интернета Ubuntu 22.04.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -25,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/Приложения/Kubernetes/Сборка билда и развертывания.md",
+                "file": "Несортированное/Просмотр самых больших файлов в Linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/Приложения/Kubernetes/Сборка билда и развертывания.md",
+                "file": "Несортированное/Просмотр самых больших файлов в Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps/Приложения/Kubernetes/Сборка билда и развертывания.md",
+                "file": "Несортированное/Просмотр самых больших файлов в Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps/Приложения/Kubernetes/Сборка билда и развертывания.md"
+                "file": "Несортированное/Просмотр самых больших файлов в Linux.md"
               }
             }
           }
@@ -161,9 +157,14 @@
   },
   "active": "05fd70c13fae005d",
   "lastOpenFiles": [
+    "DevOps/Приложения/Kubernetes/Сборка билда и развертывания.md",
+    "Несортированное/Share на Linux.md",
+    "Несортированное/Установка Helm.md",
+    "Несортированное/Работа с Helm.md",
+    "Несортированное/Просмотр самых больших файлов в Linux.md",
+    "Несортированное/Команды Nginx.md",
     "Несортированное/Troubleshootings.md",
     "DevOps/Приложения/Kubernetes/Работа с K8S.md",
-    "DevOps/Приложения/Kubernetes/Сборка билда и развертывания.md",
     "Несортированное/Обновление pod.md",
     "Несортированное/Полезные сетевые команды Linux.md",
     "Несортированное/Отсутствие интернета Ubuntu 22.04.md",
@@ -182,11 +183,6 @@
     "DevOps/Приложения/Docker/DockerHub.md",
     "DevOps/Приложения/Docker/Docker установка на Ubuntu.md",
     "Несортированное/Контроллеры доменов.md",
-    "DevOps/Приложения/Proxmox/Как безопасно обновится с версии 7 до 8.md",
-    "DevOps/Приложения/Kubernetes/Установка HELM на локальную машину.md",
-    "DevOps/Приложения/Kubernetes/Prometheus установка через HELM.md",
-    "DevOps/Приложения/Proxmox/Proxmox контейнеры.md",
-    "DevOps/Операционные системы/Windows OS/Powershell.md",
     "Несортированное/Pasted image 20240503104940.png",
     "DevOps/Приложения/Apache 1",
     "DevOps/Hardwares",
