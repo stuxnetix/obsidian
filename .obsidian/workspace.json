@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/DevOps/Базы данных/Postgresql/PostgreSQL установка Ubuntu.md",
+                "file": "Obsidian/DevOps/Операционные системы/Linux OS/Ubuntu Server.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/DevOps/Базы данных/Postgresql/PostgreSQL установка Ubuntu.md",
+                "file": "Obsidian/DevOps/Операционные системы/Linux OS/Ubuntu Server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/DevOps/Базы данных/Postgresql/PostgreSQL установка Ubuntu.md",
+                "file": "Obsidian/DevOps/Операционные системы/Linux OS/Ubuntu Server.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/DevOps/Базы данных/Postgresql/PostgreSQL установка Ubuntu.md"
+                "file": "Obsidian/DevOps/Операционные системы/Linux OS/Ubuntu Server.md"
               }
             }
           }
@@ -160,32 +160,32 @@
   },
   "active": "a6c3e9012b3dcdd8",
   "lastOpenFiles": [
-    "Obsidian/DevOps/Операционные системы/Linux OS/Диагностика/Отсутствие интернета Ubuntu 22.04.md",
+    "Obsidian/DevOps/Операционные системы/Linux OS/UFW файрвол Ubuntu.md",
+    "Obsidian/DevOps/Операционные системы/Linux OS/Linux полезные команды.md",
+    "Obsidian/DevOps/Операционные системы/Linux OS/3 дня Linux.md",
+    "Obsidian/Несортированное/Troubleshootings.md",
+    "Obsidian/Несортированное/Zentyal Office.md",
     "Obsidian/Несортированное/Изучение.md",
     "Obsidian/Несортированное/Контроллеры доменов.md",
+    "Obsidian/Несортированное/Linux Command 1.md",
+    "Obsidian/DevOps/Приложения/Kubernetes/Сборка билда и развертывания.md",
+    "Obsidian/Несортированное/Обновление pod.md",
+    "Obsidian/DevOps/Приложения/Kubernetes/Работа с K8S.md",
+    "Obsidian/DevOps/Приложения/Kubernetes/Работа с Helm.md",
     "Obsidian/DevOps/Приложения/Kubernetes/Команды kubectl.md",
-    "Obsidian/Несортированное/Troubleshootings.md",
-    "Obsidian/DevOps/Приложения/Kubernetes/Prometheus установка через HELM.md",
-    "Obsidian/DevOps/Приложения/Kubernetes/Microk8s.md",
     "Obsidian/DevOps/Приложения/Kubernetes/Что такое Kubernetes.md",
     "Obsidian/DevOps/Приложения/Kubernetes/Установка Kubectl.md",
     "Obsidian/DevOps/Приложения/Kubernetes/Установка Helm.md",
-    "Obsidian/DevOps/Приложения/Kubernetes/Установка HELM на локальную машину.md",
-    "Obsidian/DevOps/Приложения/Kubernetes/Сборка билда и развертывания.md",
-    "Obsidian/DevOps/Приложения/Kubernetes/Работа с K8S.md",
-    "Obsidian/DevOps/Приложения/Kubernetes/Работа с Helm.md",
-    "Obsidian/DevOps/Операционные системы/Linux OS/Диагностика/Полезные сетевые команды Linux.md",
-    "Obsidian/DevOps/Операционные системы/Linux OS/Linux полезные команды.md",
-    "Obsidian/DevOps/Операционные системы/Linux OS/Диагностика/Просмотр дисков и разделов Linux.md",
-    "Obsidian/DevOps/Операционные системы/Linux OS/Диагностика/Чистка мусора в Linux.md",
-    "Obsidian/DevOps/Операционные системы/Linux OS/Диагностика/Linux Диагностика.md",
+    "Obsidian/DevOps/Приложения/Docker/Команды Docker.md",
+    "Obsidian/DevOps/Операционные системы/Solaris OS/ZFS File System.md",
     "Obsidian/DevOps/Операционные системы/Linux OS/Диагностика/Просмотр статуса системных процессов Linux.md",
     "Obsidian/DevOps/Операционные системы/Linux OS/Диагностика/Просмотр самых больших файлов в Linux.md",
-    "Obsidian/DevOps/Операционные системы/Linux OS/Диагностика/Найти принтеры Linux.md",
-    "Obsidian/DevOps/Операционные системы/Linux OS/Диагностика",
-    "Obsidian/Несортированное/Обновление pod.md",
-    "Сброс пароля пользователя postgres.md",
+    "Obsidian/DevOps/Операционные системы/Linux OS/Диагностика/Linux Диагностика.md",
+    "Obsidian/DevOps/Операционные системы/Linux OS/Share на Linux.md",
+    "Obsidian/DevOps/Операционные системы/Linux OS/Degraded - статус.md",
+    "Obsidian/DevOps/Операционные системы/Linux OS/BIND9.md",
     "Obsidian/DevOps/Базы данных/Postgresql/PostgreSQL установка Ubuntu.md",
-    "Obsidian/DevOps/Операционные системы/Linux OS/Share на Linux.md"
+    "Obsidian/DevOps/Операционные системы/Linux OS/Диагностика/Отсутствие интернета Ubuntu 22.04.md",
+    "Obsidian/DevOps/Операционные системы/Linux OS/Диагностика"
   ]
 }
