@@ -21,14 +21,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Несортированное/Просмотр самых больших файлов в Linux.md",
+                "file": "DevOps/Приложения/Kubernetes/Сборка билда и развертывания.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fcc561511b477314",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Несортированное/Troubleshootings.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Несортированное/Просмотр самых больших файлов в Linux.md",
+                "file": "Несортированное/Troubleshootings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Несортированное/Просмотр самых больших файлов в Linux.md",
+                "file": "Несортированное/Troubleshootings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Несортированное/Просмотр самых больших файлов в Linux.md"
+                "file": "Несортированное/Troubleshootings.md"
               }
             }
           }
@@ -155,34 +167,34 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "05fd70c13fae005d",
+  "active": "fcc561511b477314",
   "lastOpenFiles": [
+    "DevOps/Операционные системы/Linux OS/Диагностика/Просмотр самых больших файлов в Linux.md",
+    "Несортированное/Test Choice.md",
     "DevOps/Приложения/Kubernetes/Сборка билда и развертывания.md",
+    "Несортированное/Troubleshootings.md",
+    "DevOps/Приложения/Docker/Удаление Docker с Ubuntu.md",
+    "DevOps/Приложения/Docker/Создать свой образ Image.md",
+    "Несортированное/Изучение.md",
+    "Несортированное/Команды Nginx.md",
+    "Несортированное/Контроллеры доменов.md",
+    "Несортированное/Linux Command 1.md",
     "Несортированное/Share на Linux.md",
+    "DevOps/Приложения/Kubernetes/Работа с Helm.md",
     "Несортированное/Установка Helm.md",
     "Несортированное/Работа с Helm.md",
     "Несортированное/Просмотр самых больших файлов в Linux.md",
-    "Несортированное/Команды Nginx.md",
-    "Несортированное/Troubleshootings.md",
-    "DevOps/Приложения/Kubernetes/Работа с K8S.md",
     "Несортированное/Обновление pod.md",
-    "Несортированное/Полезные сетевые команды Linux.md",
-    "Несортированное/Отсутствие интернета Ubuntu 22.04.md",
-    "DevOps/Приложения/Docker/Удаление Docker с Ubuntu.md",
-    "DevOps/Приложения/Docker/Создать свой образ Image.md",
-    "DevOps/Операционные системы/Linux OS/Linux полезные команды.md",
-    "DevOps/Операционные системы/Linux OS/Запасной контроллер домена на основе Samba4.md",
-    "DevOps/Операционные системы/Linux OS/Linux Диагностика.md",
-    "Несортированное/Linux Command 1.md",
-    "DevOps/Операционные системы/Linux OS/Увеличиваем LVM объём.md",
-    "DevOps/Операционные системы/Linux OS/Чистка мусора в Linux.md",
-    "Несортированное/Команды kubectl.md",
-    "Несортированное/Изучение.md",
-    "Несортированное/Zentyal Office.md",
-    "DevOps/Приложения/Docker/Команды Docker.md",
-    "DevOps/Приложения/Docker/DockerHub.md",
-    "DevOps/Приложения/Docker/Docker установка на Ubuntu.md",
-    "Несортированное/Контроллеры доменов.md",
+    "DevOps/Приложения/Kubernetes/Установка Helm.md",
+    "DevOps/Приложения/Kubernetes/Установка Kubectl.md",
+    "DevOps/Приложения/Kubernetes/Microk8s.md",
+    "DevOps/Приложения/Kubernetes/Что такое Kubernetes.md",
+    "DevOps/Приложения/Kubernetes/Prometheus установка через HELM.md",
+    "DevOps/Приложения/Kubernetes/Работа с K8S.md",
+    "DevOps/Приложения/Kubernetes/Команды kubectl.md",
+    "DevOps/Операционные системы/Linux OS/Диагностика/Чистка мусора в Linux.md",
+    "DevOps/Операционные системы/Linux OS/Диагностика/Linux Диагностика.md",
+    "DevOps/Операционные системы/Linux OS/Диагностика/Просмотр дисков и разделов Linux.md",
     "Несортированное/Pasted image 20240503104940.png",
     "DevOps/Приложения/Apache 1",
     "DevOps/Hardwares",

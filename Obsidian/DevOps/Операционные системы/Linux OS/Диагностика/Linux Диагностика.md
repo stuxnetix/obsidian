@@ -73,7 +73,7 @@ netstat -rn
 cd var/log
 ```
 ```
-tail -f -n50 var/log/syslog
+tail -f -n50 /var/log/syslog
 ```
 ```
 journalctl
